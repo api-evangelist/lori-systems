@@ -1,0 +1,60 @@
+aid: lori-systems
+name: Lori Systems
+description: >-
+  Lori Systems is a Nairobi-headquartered, pan-African digital freight platform
+  that matches cargo owners with vetted transporters to coordinate long-haul
+  trucking across the continent. Founded in 2016 by Josh Sandler, Jean-Claude
+  Homawoo, and Ernest Gichini Ngaruiya, the company is now led by CEO Uche
+  Ogboi and runs operations from offices in Kenya, Nigeria, and Uganda,
+  moving cargo across roughly 12 African countries with a network of 20,000+
+  trucks and over $10B of cargo facilitated. The platform offers shippers
+  instant rate estimates, load matching, real-time shipment tracking,
+  electronic proof of delivery, and integrated payments, while giving
+  transporters access to cargo orders, truck-availability management, and
+  prompt payment on delivery. Lori operates a public rate-card tool at
+  ratecard.lorisystems.com, but does not publish a public developer API,
+  SDK, or open OpenAPI specification; its GitHub organization is limited to
+  small internal-tooling repositories (a Singer.io tap for Freshsales, a
+  BambooHR Python client, a Kubernetes Terraform provider, and similar
+  utilities) rather than a customer-facing API surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Logistics
+  - Freight
+  - Trucking
+  - Cargo
+  - Supply Chain
+  - Transportation
+  - Marketplace
+  - Africa
+  - East Africa
+  - West Africa
+  - Kenya
+  - Nigeria
+  - Uganda
+  - Digital Freight
+  - Last Mile
+url: https://raw.githubusercontent.com/api-evangelist/lori-systems/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://lorisystems.com
+  - type: RateCard
+    url: https://ratecard.lorisystems.com
+  - type: Careers
+    url: https://lorisystems.bamboohr.com/jobs/
+  - type: GitHub
+    url: https://github.com/Lori-Systems
+  - type: LinkedIn
+    url: https://ke.linkedin.com/company/lori-systems
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/lori-systems
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
